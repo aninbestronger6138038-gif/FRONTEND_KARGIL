@@ -153,7 +153,6 @@ function updateCounters() {
         `Pending Tasks: <strong>${pending}</strong>`;
 }
 
-// Add at very end
 renderList();
 updateCounters();
 
